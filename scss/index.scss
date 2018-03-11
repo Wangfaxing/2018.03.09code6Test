@@ -1,0 +1,9 @@
+$width: 100px;
+$height: 100px;
+$color: blue;
+
+#div1{
+	width: $width;
+	height: $height;
+	background-color: $color;
+}
